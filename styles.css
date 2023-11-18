@@ -1,0 +1,27 @@
+.container{
+    margin-top: 10px;
+}
+
+.main-image{
+    display: grid;
+    grid-template-columns: repeat(5, 6fr);
+    gap: 10px;
+    }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.table{
+    text-align: center;
+}
+
+.comment{
+    width:100%;
+}
+
+.button1{
+    width: 100%;
+}
